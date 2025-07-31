@@ -1,0 +1,21 @@
+NB0 - https://www.kaggle.com/code/azhuvath/ml-basics-nb0
+NB1 - https://www.kaggle.com/code/azhuvath/tensors-nb1
+NB2 - https://www.kaggle.com/code/azhuvath/linear-regression-nb2
+NB3 - https://www.kaggle.com/code/azhuvath/perceptron-nb3
+NB4 - https://www.kaggle.com/code/azhuvath/deep-perceptron-nb4
+NB4 - https://www.kaggle.com/code/azhuvath/deep-perceptron-sequential-nb4
+NB4 - https://www.kaggle.com/code/azhuvath/deep-perceptron-functional-nb4
+NB5 - https://www.kaggle.com/code/azhuvath/mnist-nb5
+NB10 - https://www.kaggle.com/code/azhuvath/filters-nb10
+NB6 - https://www.kaggle.com/code/azhuvath/mnist-lenet-nb6
+NB6 - https://www.kaggle.com/code/azhuvath/mnist-clustering-nb6
+NB7a - https://www.kaggle.com/code/azhuvath/cifar10-lenet-nb7a
+NB7b - https://www.kaggle.com/code/azhuvath/cifar10-lenet-nb7b
+NB8 - https://www.kaggle.com/code/azhuvath/cifar10-modifiedlenet-nb8
+NB9 - https://www.kaggle.com/code/azhuvath/cifar10-modifiedlenet-with-image-augmentation-nb9
+NB11 - https://www.kaggle.com/code/azhuvath/visualising-filters-and-feature-maps-nb11
+NB12 - https://www.kaggle.com/code/azhuvath/ants-and-bees-transfer-learning-vgg16-nb12
+NB13 - https://www.kaggle.com/code/azhuvath/ants-and-bees-transfer-learning-alexnet-nb13
+NB14 - https://www.kaggle.com/code/azhuvath/style-transfer-nb14
+NB15 - https://www.kaggle.com/code/azhuvath/object-detection-finetuning-nb15
+Pothole Detection - https://www.kaggle.com/code/azhuvath/poth-hole-detection
